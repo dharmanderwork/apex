@@ -1,0 +1,6 @@
+{
+  "name": "APEX FITNESS CLUB — Build Your Stronger Self",
+  "description": "Premium strength training, personal coaching, functional conditioning, and athletic transformation club. Explore facilities, programs, trainers, and membership plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
